@@ -1,4 +1,4 @@
-# Rocket.Q
+# Netflix - Homepage Clone
 
 [<img alt="Linkedin Logo" src="https://img.shields.io/badge/-Luiz%20Fernando%20Tavares-8257E5?logo=linkedin">](https://www.linkedin.com/in/luiz-fernando-tavares-141311187/)
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luyzfern4ndo/clone-netflix-homepage">
